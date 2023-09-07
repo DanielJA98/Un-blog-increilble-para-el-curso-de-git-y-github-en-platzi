@@ -1,0 +1,392 @@
+apt install cowsay
+sudo apt install cowsay
+cowsay
+cowsay hola
+cowsay hola mundo 
+neofetch
+sudo apt install neofetch
+neofetch
+ls
+pwd
+ls
+ls
+mkdir lista_comandos
+l
+ls
+cd lista_comandos/
+touch lisadecomandos.txt
+open lisadecomandos.txt 
+tree
+tree -L 2
+ls -a
+ls -r
+ls -l
+file lista_comandos/
+cd lista_comandos/
+ls
+xdg-open lisadecomandos.txt 
+cat lisadecomandos.txt 
+xdg-open lisadecomandos.txt 
+mv lisadecomandos.txt listadecomandos.txt
+ls
+open listadecomandos.txt 
+sudo apt-get update
+sudo apt-get xdg-utils
+xdg-open
+sudo apt install xdg-utils
+xdg-open listadecomandos.txt 
+sudo apt update
+code .
+sudo apt-get update
+code . 
+sudo apt-get install wget
+code . 
+htop
+sudo apt install htop
+htop
+lolcat
+sudo apt get install lolcat
+sudo apt install lolcat
+lolcat
+hola lolcat
+info lolcat
+lolcat info
+htop
+lolcat hola
+sudo apt install cowsay
+cowsay "hola" | lolcat
+htop
+lolcat
+ls
+pwd
+cd
+ls
+screnfech -p
+screenfech -p
+Screenfetch
+screenfetch
+sudo install screenfetch
+screenfetch
+sudo apt install screenfetch
+screenfetch -p
+pwd
+cd ..
+pwd
+clear
+reset
+cd
+touch web.html
+ls
+code .
+l
+ls
+touch comandos
+ls
+mv comandos comandos.txt
+ls
+code info
+help code
+info code
+code comandos.txt 
+pwd
+ls
+code web.html 
+reset
+sudo apt update
+sudo apt install node.js
+sudo apt install nodejs
+node =v
+node -v
+sudo apt install npm
+npm install -g n
+sudo npm install -g n
+sudo n latest
+node -v
+reset
+node -v
+node -v
+sudo apt-get update
+sudo apt-get upgrade
+node -v
+sudo apt update
+sudo apt install sofwere-properties-common
+sudo apt install softwere-properties-common
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt update
+sudo apt install python
+python -v
+sudo apt update -y
+sudo su
+phyton --version
+python --version
+sudo apt-get install python3.7
+python3 --version
+cd ~
+mkdir programming-historian
+phyton
+phyton -v
+phyton
+phyton3
+python3
+phyton -v
+python --v
+python3 -v
+python -v
+Python3 -V
+python3 -V
+python -v
+sudo apt update
+sudo apt-get install git-all
+python -v
+python --v
+python -v
+sudo apt upddate
+sudo apt update
+git version
+apt-add-repository -r deadsnakes/ppa
+sudo apt-add-repository -r deadsnakes/ppa
+sudo apt update
+apt-add-repository -list
+pwd
+git version
+d-apt-repository ppa:git-core/ppa
+sudo add-apt-repository ppa:git-core/ppa
+pwd
+ls
+mkdir entonoDeDesarrollo
+cd entonoDeDesarrollo/
+touch notasClase.dm
+code notasClase.dm 
+mv notasClase.dm notasDeClase.md
+code notasDeClase.md 
+ssh-keygen -t ed25519 -C "djimeneza7b2276@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/home/daniel21/.ssh/id_ed25519
+ssh-add ~/.ssh/id_ed25519
+reset
+cd
+ssh-add ~/.ssh/id_ed25519
+cd
+ls
+cd ..
+ls
+daniel21
+cd daniel21/
+ls
+ls -a
+ssh-keygen -t rsa -b 4096 -C "djimeneza7b2276@gmail.com"
+ssh-keygen -t ed25519 -C
+ssh-keygen -t ed25519 -C "djimeneza7b2276@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+eval “$(ssh-agent -s)”
+apt-get install openssh-server
+sudo apt-get install openssh-server
+systemctl enable ssh
+ls
+ls -a
+ssh-keygen -t ed25519 -C "djimeneza7b2276@gmail.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+reset
+ssh
+sudo apt update
+sudo apt upgrade
+htop
+eval “$(ssh-agent -s)”
+ssh-keygen -t ed25519 -C "djimeneza7b2276@gmail.com"
+eval “$(ssh-agent -s)”
+ssh-add ~/.ssh/id_ed25519
+eval “$(ssh-agent -s)”
+ssh-add ~/.ssh/id_ed25519
+sudo add-apt-repository --remove ppa:http://ppa.launchpad.net/deadsnakes/ppa/ubuntu
+sudo apt update
+sudo add-apt-repository --remove ppa:'http://ppa.launchpad.net/deadsnakes/ppa/ubuntu mantic Release'
+sudo apt-repository --list
+help repository
+ls
+ls -a
+python3 version 
+python3 -- version 
+Python3 version 
+python -V
+sudo apt update
+sudo apt upgrade
+Python3 -V
+python3 -V
+sudo apt install python3.7
+sudo apt install python3
+sudo apt install python3.9.2-3
+sudo apt install python3.9.2
+sudo apt install python3
+sudo update-alternatives --config python3
+sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.7 1
+sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3
+sudo update-alternatives --config python3
+sudo apt install python3
+python3 --version
+apt search python3
+python3 --version
+python3
+ls
+rm -i aisteru98
+ls
+rm aisteru98.pub 
+ls
+rm miclave miclave.pub 
+ls
+mv programming-historian programming-historial
+ls
+code web.html
+ssh-keygen -t -C "djimeneza7b2276@outlook.com"
+git version
+ssh-keygen -t ed25519 -C "djimeneza7b2276@outlook.com"
+ls
+kls
+ls
+ls -a
+ssh-keygen -t ed25519 -C "djimeneza7b2276@outlook.com"
+ls
+eval “$(ssh-agent -s)”
+htop
+ssh-add ~/.ssh/id_ed25519
+sudo apt-get install openssh-client
+eval $(ssh-agent -s)
+htop
+ssh-add
+htop
+ssh-add ~/.ssh/clavegit
+eval $(ssh-agent -s)
+ssh-add ~/.ssh/clavegit
+ls
+rm i clavegit clavegit.pub 
+rm -i clavegit clavegit.pub 
+rm -ri clavegit clavegit.pub 
+ls
+ls -a
+ssh-keygen -t ed25519 -C "djimeneza7b2276@outlook.com"
+htop
+ssh-add ~/.ssh/id_ed25519
+ssh-add ~/.ssh/mi_clave
+ls
+ssh-add
+code mi_clave.pub
+ssh-add -l
+ssh-add ~/mi_clave
+ssh-add -l
+htop
+ssh-add -l
+ls
+rm mi_clave mi_clave.pub
+ls
+mkdir .ssh
+ls
+ls -a
+.ssh
+cd .ssh/
+ls
+cd ..
+ls
+mkdir Daniel 
+ls
+cd Daniel/
+ls
+mkdir .ssh
+ls
+ls -a
+cd .ssh
+ls
+ssh-keygen -t ed25519 -C "djimeneza7b2276@outlook.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/Daniel/.ssh/mi_clave
+ssh -l
+ssh l
+cat mi_clave
+htop
+ls
+cd ..
+ls
+ls -a
+cd
+ls
+rm -ri Daniel/
+l
+ls
+ls - a
+ls -a
+cd .ssh
+ls
+eval "$(ssh-agent -s)"
+ssh-add
+ssh l
+ssh -l
+ssh --l
+ssh-add -l
+ssh-add ~/.ssh/mi_clave
+ssh-add -l
+cat mi_clave.pub
+cd
+htop
+ls
+mv entonoDeDesarrollo entornoDeDesarrollo
+ls
+cd entornoDeDesarrollo/
+ls
+rm -i aisteru98 aisteru98.pub
+ls
+ssh-add -l
+git init
+git status
+git add web.html 
+git status
+ls
+git status
+git add
+git add .
+git status
+git commit ""
+git commit -m "sdd"
+git config --global user.name "DanielJA98"
+git config --global user.email "djimeneza7b2276@outlook.com"
+git commit -m "mi primer commit"
+git remote add origin git@github.com:DanielJA98/entornoDeDesarrollo.git
+git remote add -v
+git remote -v
+git push origin master
+ls
+code web.html 
+git status
+git add .
+git status
+git commit "segundo commit"
+git commit -m "segundo commit"
+git push origin master
+git status
+sudo apt-get update
+sudo apt-get upgrade
+git
+vim
+sudo apt-get vim
+ls
+cd entornoDeDesarrollo/
+cd
+ls
+cd entornoDeDesarrollo/
+ls
+cd
+ls -al
+cd ..
+cd
+mkdir proyecto1
+ls
+cd proyecto1
+touch vacio.txt
+ls
+code vacio.txt 
+cat vacio.txt 
+history
+rm -i vacio.txt 
+code --help
+history --help
+history -w hostitial.txt
