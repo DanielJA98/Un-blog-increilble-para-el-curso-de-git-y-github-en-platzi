@@ -1,6 +1,6 @@
 body
 {
-    background: #1e1f24;
+    background: #ecedf2;
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -45,17 +45,9 @@ body
 {
     font-size: 20px;
 }
-<<<<<<< HEAD
-#post
-{
-    background: white;
-    padding: 1em;
-}
-=======
 
 #footer {
     background: #777;
     color: white;
     text-align: center;
 }
->>>>>>> footer
